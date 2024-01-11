@@ -1,0 +1,7 @@
+C:\Users\knrsl\source\repos\3-sinav-Ortalama\3-sinav-Ortalama\bin\Debug\3-sinav-Ortalama.exe.config
+C:\Users\knrsl\source\repos\3-sinav-Ortalama\3-sinav-Ortalama\bin\Debug\3-sinav-Ortalama.exe
+C:\Users\knrsl\source\repos\3-sinav-Ortalama\3-sinav-Ortalama\bin\Debug\3-sinav-Ortalama.pdb
+C:\Users\knrsl\source\repos\3-sinav-Ortalama\3-sinav-Ortalama\obj\Debug\3-sinav-Ortalama.csproj.AssemblyReference.cache
+C:\Users\knrsl\source\repos\3-sinav-Ortalama\3-sinav-Ortalama\obj\Debug\3-sinav-Ortalama.csproj.CoreCompileInputs.cache
+C:\Users\knrsl\source\repos\3-sinav-Ortalama\3-sinav-Ortalama\obj\Debug\3-sinav-Ortalama.exe
+C:\Users\knrsl\source\repos\3-sinav-Ortalama\3-sinav-Ortalama\obj\Debug\3-sinav-Ortalama.pdb
